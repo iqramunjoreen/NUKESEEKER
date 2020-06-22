@@ -1,0 +1,5 @@
+<resources>
+    <string name = "app_name">NUKESEEKER</string>
+    <string name = "image1">NUKE</string>
+    <string name = "image2">SEEKER</string>
+</resources>
